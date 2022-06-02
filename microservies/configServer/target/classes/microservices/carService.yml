@@ -1,9 +1,9 @@
 server:
-  port: 8500
+  port: 8501
 
 spring:
   application:
-    name: bikeService
+    name: carService
 
 eureka:
   client:
